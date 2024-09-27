@@ -88,6 +88,16 @@ If you encounter any issues or have questions, feel free to open an issue on the
 
 We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to get started.
 
+## Issues or Pull Requests
+
+We ask that you see the [CONTRIBUTING.md](CONTRIBUTING.md) file for how to contact us.
+
+Issues and/or Pull Requests submitted to the Git will not be recognized.
+
+You can find the templates directly here:
+[Issue Template](.github/ISSUE_TEMPLATE/issue-template.md)
+[Pull Request Template](.github/ISSUE_TEMPLATE/pull-request-template.md)
+
 ## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
