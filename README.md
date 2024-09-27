@@ -95,7 +95,9 @@ We ask that you see the [CONTRIBUTING.md](CONTRIBUTING.md) file for how to conta
 Issues and/or Pull Requests submitted to the Git will not be recognized.
 
 You can find the templates directly here:
+
 [Issue Template](.github/ISSUE_TEMPLATE/issue-template.md)
+
 [Pull Request Template](.github/ISSUE_TEMPLATE/pull-request-template.md)
 
 ## License
