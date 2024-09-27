@@ -21,4 +21,4 @@ Thank you for your interest in contributing to the Snake Game project!
 
 ---
 
-For any questions or further assistance, feel free to reach out to us at [wass.inc@gmail.com](mailto:wass.inc@gmail.com).
+For any questions or further assistance, feel free to reach out to us at [wass.incorporated@gmail.com](mailto:wass.incorporated@gmail.com).
