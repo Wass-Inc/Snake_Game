@@ -92,7 +92,7 @@ We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
 We ask that you see the [CONTRIBUTING.md](CONTRIBUTING.md) file for how to contact us.
 
-Issues and/or Pull Requests submitted to the Git will not be recognized.
+Issues and/or Pull Requests submitted to the GitHub repository will not be recognized.
 
 You can find the templates directly here:
 
