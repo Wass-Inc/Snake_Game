@@ -4,7 +4,7 @@ We welcome contributions to the Snake Game project! To contribute, please follow
 
 ## How to Contribute
 
-1. **Email Us**: Send an email to [wass.inc@gmail.com](mailto:wass.inc@gmail.com) with the subject field as "Snake Game".
+1. **Email Us**: Send an email to [wass.incorporated@gmail.com](mailto:wass.incorporated@gmail.com) with the subject field as "Snake Game".
 
 2. **Include Your Changes**: In your email, include a detailed description of the changes you are suggesting. Attach any relevant files or links to your forked repository.
 
