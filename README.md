@@ -64,8 +64,7 @@ To start the game, simply run the `main.py` file:
 
 - **Arrow Keys**: Control the direction of the snake.
 - **Enter**: Start the game or resume from pause.
-- **Escape**: Quit the game or return to the main menu.
-- **P**: Pause the game.
+- **Escape**: Quit the game, pause the game, or return to the main menu.
 
 ### Game Levels
 
