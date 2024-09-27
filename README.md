@@ -1,7 +1,5 @@
 # Snake Game
 
-![Snake Game](./images/snake_game_logo.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
