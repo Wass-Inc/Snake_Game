@@ -56,9 +56,7 @@ Before installing the Snake Game, you need:
 
 To start the game, simply run the `main.py` file:
 
-    ```bash
     python snake_game/main.py
-    ```
 
 ## Usage
 
